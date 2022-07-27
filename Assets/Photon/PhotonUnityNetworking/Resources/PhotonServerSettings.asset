@@ -42,6 +42,12 @@ MonoBehaviour:
   - CantHearYou
   - ChangeColour
   - HeresWhy
+  - RPC_RecieveStreamData
+  - RPC_SetOculusID
+  - RpcOnActivate
+  - RpcOnDeactivate
+  - RpcOnDeselect
+  - RpcOnSelect
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 0
